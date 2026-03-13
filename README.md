@@ -169,7 +169,7 @@ project/
 Clone the repository:
 
 
-git clone https://github.com/yourusername/ai-academic-advisor
+git clone https://github.com/unholysquid77/nirdhaarak
 
 
 Install dependencies:
